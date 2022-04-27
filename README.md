@@ -6,7 +6,7 @@
 
 ## What this program does
 
-In this program we have created 
+In this program we have created a smart contract using Ethereum's Remix IDE and Solidity. With this contract we are able to view accounts, as well as transfer funds in between the accounts, with a record of each transaction.
 
 ---
 
